@@ -1,0 +1,27 @@
+{
+  "name": "secondbankbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali.J",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "better-sqlite3-helper": "^2.1.1",
+    "db": "^1.1.1",
+    "discord": "^0.8.2",
+    "discord.js": "^11.5.1",
+    "fs-minipass": "^1.2.6",
+    "minipass": "^2.6.0",
+    "opusscript": "0.0.7",
+    "python": "0.0.4",
+    "quick.db": "^7.0.0-b22",
+    "tar": "^4.4.10",
+    "url": "^0.11.0",
+    "yt-search": "^0.4.1",
+    "ytdl-core": "^0.29.7"
+  }
+}
